@@ -1,0 +1,28 @@
+{
+  "lang": "en-US",
+  "name": "Wikipedia",
+  "id": "wikai3pedia2",
+  "short_name": "Wikipedia",
+  "categories": ["utilities"],
+  "description":
+    "Wikipedia, ported to kai 3.",
+"icons": [     {       "src": "/images/56px.png",       "type": "image/png",       "sizes": "56x56"     },     {       "src": "/images/84px.png",       "type": "image/png",       "sizes": "84x84"     },     {       "src": "/images/112px.png",       "type": "image/png",       "sizes": "112x112"     }
+  ],
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "orientation": "natural",
+  "b2g_features": {
+    "version": "3.0",
+    "core": true,
+    "subtitle": "wikipedia",
+    "permissions": {
+    },
+    "origin": "wikipedia",
+    "developer": {
+      "name": "slash",
+      "url": "https://wikipedia.org"
+    },
+      "fullscreen": true,
+    "focus_color": "#6054EF"
+  }
+}
